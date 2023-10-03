@@ -1,4 +1,4 @@
-# unfinished！！！未完成！！！
+# unfinished 未完成  
 # pynq_cnn_accelerator
 【mdoel_training_CPU】使用CPU搭建、训练、转换、量化LeNet-5模型  
 ——模型结构：   
