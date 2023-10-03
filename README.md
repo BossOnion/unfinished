@@ -1,7 +1,7 @@
 # unfinished！！！未完成！！！
 # pynq_cnn_accelerator
 【mdoel_training_CPU】使用CPU搭建、训练、转换、量化LeNet-5模型  
-——模型结构： 
+——模型结构：   
 ————INPUT(28x28x1)  
 ————CONV1（28x28x8，3x3，ReLU，Padding）  
 ————POOL1（14x14x8，2x2,MaxPooling）  
